@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.academy.app.skullofknowledge.MainActivity">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/galaxy"
+        android:id="@+id/imageView"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        android:background="#000"
+        />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/goldskull1"
+        android:id="@+id/imageView2"
+        android:layout_centerVertical="true"
+        android:layout_centerHorizontal="true"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/answerText"
+        android:textColor="#260"
+        android:textSize="18dp"
+        android:fontFamily="sans-serif"
+        android:layout_marginBottom="300dp"
+        android:layout_alignBottom="@+id/imageView2"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>
