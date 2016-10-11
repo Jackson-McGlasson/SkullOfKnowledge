@@ -30,13 +30,6 @@
         <dex dex="C:\Users\Student\AndroidStudioProjects\SkullOfKnowledge\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.0_5e3d3c4db78ccec9c0992c17e9879abcfd3c5d5d\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Student\AndroidStudioProjects\SkullOfKnowledge\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.2"
-        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
-        <dex dex="C:\Users\Student\AndroidStudioProjects\SkullOfKnowledge\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_9286780bde3d35ecfbb7959b6ee9593867dd2e22\classes.dex" />
-    </item>
-    <item
         jar="C:\Users\Student\AndroidStudioProjects\SkullOfKnowledge\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
         jumboMode="true"
         revision="24.0.2"
@@ -51,25 +44,11 @@
         <dex dex="C:\Users\Student\AndroidStudioProjects\SkullOfKnowledge\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.0_d859f799134952b95b04d5be923d4d669b101bc6\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Student\AndroidStudioProjects\SkullOfKnowledge\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
-        jumboMode="true"
-        revision="24.0.2"
-        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
-        <dex dex="C:\Users\Student\AndroidStudioProjects\SkullOfKnowledge\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_463b57c56ba457e1aa37b3a4e3888ac60664a1af\classes.dex" />
-    </item>
-    <item
         jar="C:\Users\Student\AndroidStudioProjects\SkullOfKnowledge\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
         jumboMode="true"
         revision="24.0.2"
         sha1="045be695d968dd707691cc55d23746dbf8cf569a">
         <dex dex="C:\Users\Student\AndroidStudioProjects\SkullOfKnowledge\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_4b966c1d2ddf890f63da6793bd1cd5108666116b\classes.dex" />
-    </item>
-    <item
-        jar="C:\Users\Student\AndroidStudioProjects\SkullOfKnowledge\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
-        jumboMode="true"
-        revision="24.0.2"
-        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
-        <dex dex="C:\Users\Student\AndroidStudioProjects\SkullOfKnowledge\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_695df37e5841a1eeaac11b36b2a64a72ee7c9a2c\classes.dex" />
     </item>
     <item
         jar="C:\Users\Student\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
@@ -79,18 +58,39 @@
         <dex dex="C:\Users\Student\AndroidStudioProjects\SkullOfKnowledge\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.0_8c19851f86480cce0e9526918e77e2e67e9b5f5c\classes.dex" />
     </item>
     <item
-        jar="C:\Users\Student\AndroidStudioProjects\SkullOfKnowledge\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
-        jumboMode="true"
-        revision="24.0.2"
-        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
-        <dex dex="C:\Users\Student\AndroidStudioProjects\SkullOfKnowledge\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_8613bbf97d6b6af3c8fb2f4c1cef2977cb40b71c\classes.dex" />
-    </item>
-    <item
         jar="C:\Users\Student\AndroidStudioProjects\SkullOfKnowledge\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
         jumboMode="true"
         revision="24.0.2"
         sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
         <dex dex="C:\Users\Student\AndroidStudioProjects\SkullOfKnowledge\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.0_4974f9155c21fe666628451ffb6d2fd298f76e20\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Student\AndroidStudioProjects\SkullOfKnowledge\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="C:\Users\Student\AndroidStudioProjects\SkullOfKnowledge\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.0_9286780bde3d35ecfbb7959b6ee9593867dd2e22\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Student\AndroidStudioProjects\SkullOfKnowledge\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="C:\Users\Student\AndroidStudioProjects\SkullOfKnowledge\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_463b57c56ba457e1aa37b3a4e3888ac60664a1af\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Student\AndroidStudioProjects\SkullOfKnowledge\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="C:\Users\Student\AndroidStudioProjects\SkullOfKnowledge\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.0_695df37e5841a1eeaac11b36b2a64a72ee7c9a2c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\Student\AndroidStudioProjects\SkullOfKnowledge\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="24.0.2"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="C:\Users\Student\AndroidStudioProjects\SkullOfKnowledge\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.0_8613bbf97d6b6af3c8fb2f4c1cef2977cb40b71c\classes.dex" />
     </item>
     <item
         jar="C:\Users\Student\AndroidStudioProjects\SkullOfKnowledge\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
@@ -103,7 +103,7 @@
         jar="C:\Users\Student\AndroidStudioProjects\SkullOfKnowledge\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         revision="24.0.2"
-        sha1="ed0b58bc1e38ea7b9e58a82079b1815d0a6946d6">
+        sha1="e99b219a0465a3de1b6e040698682c0df2ef7b23">
         <dex dex="C:\Users\Student\AndroidStudioProjects\SkullOfKnowledge\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_25db0bc2b75fe57651d89d0ad1804aeb7a50cb39\classes.dex" />
     </item>
     <item
@@ -117,7 +117,7 @@
         jar="C:\Users\Student\AndroidStudioProjects\SkullOfKnowledge\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="24.0.2"
-        sha1="a0b3da068d77a3bdef8e8368d6a3ded230bcaaa4">
+        sha1="28cc4ecac7cb7d5bdee07485a812b406de44369d">
         <dex dex="C:\Users\Student\AndroidStudioProjects\SkullOfKnowledge\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_213d56f875d6e3b23250b2cfef7dadcb330aeab2\classes.dex" />
     </item>
 

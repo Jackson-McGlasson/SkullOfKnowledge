@@ -7,7 +7,6 @@ import android.hardware.SensorEventListener;
 import android.hardware.SensorManager;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-import android.util.FloatMath;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -20,9 +19,9 @@ public class MainActivity extends AppCompatActivity {
     private float currentAcceleration;
     private float previousAcceleration;
     private MediaPlayer mediaPlayer = new MediaPlayer(){
-        MediaPlayer.create(context, R.raw.boom)
-        mediaPlayer.start()
-    }
+//        MediaPlayer.create(this, R.raw.boom)
+//        mediaPlayer.start()
+    };
 
     private final SensorEventListener sensorEventListener = new SensorEventListener() {
         @Override
@@ -39,8 +38,8 @@ public class MainActivity extends AppCompatActivity {
             if(acceleration > 15){
                 Toast toast= Toast.makeText(getApplication(), "Device Has Shaken",Toast.LENGTH_SHORT);
                 toast.show();
-                mediaPlayer =  MediaPlayer.create(context, R.raw.boom);
-                mediaPlayer.start();
+//                mediaPlayer =  MediaPlayer.create(this, R.raw.boom);
+//                mediaPlayer.start();
             }
         }
 
@@ -65,6 +64,7 @@ public class MainActivity extends AppCompatActivity {
 
         answerText = (TextView) findViewById(R.id.answerText);
         answerText.setText(Predictions.get().getPrediction());
+//        MediaPlayer.create(this, R.raw.boom);
     }
 
     @Override
