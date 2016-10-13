@@ -24,9 +24,7 @@ public class MainActivity extends AppCompatActivity {
     private float acceleration;
     private float currentAcceleration;
     private float previousAcceleration;
-//    private MediaPlayer mediaPlayer;
-//        MediaPlayer.create(this, R.raw.boom)
-//        mediaPlayer.start()
+
 
 
     private final SensorEventListener sensorEventListener = new SensorEventListener() {
